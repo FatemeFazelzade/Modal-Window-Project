@@ -18,7 +18,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background: linear-gradient(to top left, #d31aab, #f3ef19);
+  background: linear-gradient(to top right, #d31aab, #f3ef19);
 }
 
 .modal-box {
@@ -29,7 +29,7 @@ body {
   border: none;
   background-color: rgb(189, 19, 70);
   color: rgb(245, 241, 241);
-  border-radius: 10rem;
+  border-radius: 5rem;
   cursor: pointer;
 }
 
